@@ -12,15 +12,15 @@ Guard - Artificial Criminal Mind Detection Using Machine Learning is an AI-power
 - Utilizes ARIMA for time-series analysis of behavioral trends and crime patterns.  
 - Employs Chi-Square feature selection for improved data preprocessing and accuracy.
 
-## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+## Requirements 
+- **Operating System:** Requires a 64-bit OS (Windows 10/11 or Ubuntu) for compatibility with deep learning frameworks.  
+- **Development Environment:** Python 3.6 or later is required for implementing AI models.  
+- **Deep Learning Frameworks:** TensorFlow and Keras for model training, with LSTM and ARIMA for sequential data analysis.  
+- **Machine Learning Libraries:** scikit-learn for feature selection (Chi-Square) and classification tasks.  
+- **Image & Speech Processing:** OpenCV for facial analysis, NLP libraries for speech pattern recognition.  
+- **Version Control:** Git for collaborative development and efficient code management.  
+- **IDE:** VSCode for coding, debugging, and seamless integration with version control.  
+- **Additional Dependencies:** TensorFlow (2.4.1+), TensorFlow GPU (for acceleration), OpenCV, and Mediapipe.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
