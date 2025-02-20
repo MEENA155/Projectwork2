@@ -23,10 +23,7 @@ Guard - Artificial Criminal Mind Detection Using Machine Learning is an AI-power
 - **Additional Dependencies:** TensorFlow (2.4.1+), TensorFlow GPU (for acceleration), OpenCV, and Mediapipe.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![image](https://github.com/user-attachments/assets/eb70716a-bc9b-49ca-bc0f-c6ab735b9046)
 
 ## Output
 
