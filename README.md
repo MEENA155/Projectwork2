@@ -38,12 +38,11 @@ Guard - Artificial Criminal Mind Detection Using Machine Learning is an AI-power
 #### Output2 - Name of the output
 ![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+
 
 
 ## Results and Impact
-## Results and Impact  
+
 
 The Guard - Artificial Criminal Mind Detection system demonstrates promising results in analyzing behavioral patterns for potential threat detection. Using LSTM and ARIMA, it effectively identifies sequential patterns in speech and movement, improving detection accuracy. The Chi-Square feature selection enhances model efficiency by prioritizing key behavioral indicators. Real-time analysis of facial expressions and speech patterns ensures quick response times, making it a valuable tool for security applications.  
 
