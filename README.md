@@ -1,18 +1,16 @@
 ## Guard - Artificial Criminal Mind Detection Using Machine Learning
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
-
+Guard is an AI-powered system designed to analyze behavioral patterns and identify potential criminal intent using machine learning techniques. The project leverages advanced algorithms to assess various factors such as facial expressions, speech patterns, and psychological traits to detect suspicious activities. The goal is to assist law enforcement in early threat detection and enhance public safety while maintaining ethical AI practices.
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Guard - Artificial Criminal Mind Detection Using Machine Learning is an AI-powered system that leverages machine learning and deep learning techniques to analyze behavioral patterns and detect potential criminal intent. It utilizes algorithms like ARIMA for time-series analysis of behavioral data and LSTM for sequential pattern recognition in speech and movements. The system evaluates facial expressions, speech patterns, and psychological traits to identify suspicious activities. With Chi-Square feature selection optimizing data processing and NLP enhancing speech analysis, this project aims to assist law enforcement in early threat detection while ensuring ethical AI practices for security and crime prevention.
 
-## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+## Features 
+- Implements advanced neural network methods like LSTM for sequential pattern recognition.  
+- A framework-based application designed for real-time deployment in security systems.  
+- High scalability, enabling efficient processing of large behavioral datasets.  
+- Optimized time complexity for quick analysis and threat detection.  
+- Integrates a chatbot response model using JSON data format for interactive security alerts.  
+- Utilizes ARIMA for time-series analysis of behavioral trends and crime patterns.  
+- Employs Chi-Square feature selection for improved data preprocessing and accuracy.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
