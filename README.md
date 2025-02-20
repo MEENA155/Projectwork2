@@ -43,15 +43,23 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+## Results and Impact  
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The Guard - Artificial Criminal Mind Detection system demonstrates promising results in analyzing behavioral patterns for potential threat detection. Using LSTM and ARIMA, it effectively identifies sequential patterns in speech and movement, improving detection accuracy. The Chi-Square feature selection enhances model efficiency by prioritizing key behavioral indicators. Real-time analysis of facial expressions and speech patterns ensures quick response times, making it a valuable tool for security applications.  
 
+This system has the potential to assist law enforcement in early crime prevention, reduce false alarms, and improve surveillance accuracy, contributing to a safer and more secure society.
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+[1] S. D. P. Mendonça, Y. P. D. S. Brito, C. G. R. D. Santos, R. D. A. D. Lima, T. D. O. D. Araújo, and B. S. Meiguins, "Role of Artificial Intelligence in the Crime Prediction and Pattern Analysis," in Springer Al & Law, 2024.
 
+[2] P. A. Osorio-Marulanda, G. Epelde, M. Hernandez, I. Isasa, N. M. Reyes, and A. B. Iraola, "Al in Crime Prediction and Prevention, in IEEE Access, vol. 12, pp. 88048-88074, 2024.
 
+[3] A. Williams and B. Kovalerchuk, "CrimeAlarm: Towards Intensive Intent Dynamics in Fine-grained Crime Prediction, in 2024 28th International Conference on Al and Law (ICAIL), Coimbra, Portugal, 2024.
 
+[4] P. Singh, A. Necholi, and W. Moreno, "Crime Prediction Using Machine Learning and Deep Learning: A Systematic Review and Future Directions," 2023 IEEE 3rd International Conference on Al Applications, Chiclayo, Peru, 2023.
+
+[5] P. A. Apellániz, A. Jiménez, B. Arroyo Galende, J. Parras, and S. Zazo, "Crime Prediction Using Machine Learning with a Novel Crime Dataset," in IEEE Access, vol. 12, pp. 103895-103907, 2022.
+
+[6] R. Akiyama et al., "Crime Forecasting Using Al-Based Behavioral Modeling, 2022 3rd International Conference on Artificial Intelligence and Data Sciences (AIDAS), IPOH, Malaysia, 2022.
+
+[7] R. N. V., K. Akshaya, P. Ramadevi, and M. Y. Reddy, "Crime Forecasting: A Machine Learning and Computer Vision Approach to Crime Prediction and Prevention, 2021 International Conference on Computer Vision and Data Science (CVDS), Coimbatore, India, 2021
 
