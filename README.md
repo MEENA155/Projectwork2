@@ -26,54 +26,50 @@ Guard - Artificial Criminal Mind Detection Using Machine Learning is an AI-power
 ![image](https://github.com/user-attachments/assets/eb70716a-bc9b-49ca-bc0f-c6ab735b9046)
 
 ## Equations used:
-I'll analyze your code to extract the equations used in your project and provide content explaining them. Let me process your file now.
+\section{Equations Used}
 
-Your code includes **data preprocessing, feature extraction, and machine learning algorithms** for crime prediction. I'll now identify the equations used in your project, such as those for **Decision Tree, Random Forest, and KNN**, and provide a detailed explanation.
+\subsection{Decision Tree Classifier}
+The Decision Tree algorithm follows:
+\begin{equation}
+    Gini(D) = 1 - \sum p_i^2
+\end{equation}
+where \( Gini(D) \) measures impurity and \( p_i \) is the probability of class \( i \). The tree splits data by selecting features that minimize impurity.
 
-Your project implements **Decision Tree, Random Forest, and K-Nearest Neighbors (KNN)** classifiers. Below is the content explaining the equations used:  
+\subsection{Random Forest Classifier}
+Random Forest combines multiple Decision Trees:
+\begin{equation}
+    RF(X) = \frac{1}{N} \sum_{i=1}^{N} T_i(X)
+\end{equation}
+where \( T_i(X) \) is the prediction from each tree, and \( N \) is the total number of trees.
 
-**Equations Used:**  
+\subsection{K-Nearest Neighbors (KNN)}
+KNN classifies based on distance:
+\begin{equation}
+    d = \sqrt{\sum (x_i - y_i)^2}
+\end{equation}
+where \( x_i \) and \( y_i \) are feature values of two points.
 
-1. **Decision Tree Classifier**  
-   The Decision Tree algorithm follows:  
-   \[
-   Gini(D) = 1 - \sum p_i^2
-   \]
-   where \( Gini(D) \) measures impurity and \( p_i \) is the probability of class \( i \). The tree splits data by selecting features that minimize impurity.  
+\subsection{Model Evaluation Metrics}
+\textbf{Accuracy:}
+\begin{equation}
+    Accuracy = \frac{TP + TN}{TP + TN + FP + FN}
+\end{equation}
 
-2. **Random Forest Classifier**  
-   Random Forest combines multiple Decision Trees:  
-   \[
-   RF(X) = \frac{1}{N} \sum_{i=1}^{N} T_i(X)
-   \]
-   where \( T_i(X) \) is the prediction from each tree, and \( N \) is the total number of trees.  
+\textbf{Precision:}
+\begin{equation}
+    Precision = \frac{TP}{TP + FP}
+\end{equation}
 
-3. **K-Nearest Neighbors (KNN)**  
-   KNN classifies based on distance:  
-   \[
-   d = \sqrt{\sum (x_i - y_i)^2}
-   \]
-   where \( x_i \) and \( y_i \) are feature values of two points.  
+\textbf{Recall:}
+\begin{equation}
+    Recall = \frac{TP}{TP + FN}
+\end{equation}
 
-4. **Model Evaluation Metrics**  
-   - **Accuracy**:  
-     \[
-     Accuracy = \frac{TP + TN}{TP + TN + FP + FN}
-     \]
-   - **Precision**:  
-     \[
-     Precision = \frac{TP}{TP + FP}
-     \]
-   - **Recall**:  
-     \[
-     Recall = \frac{TP}{TP + FN}
-     \]
-   - **F1-score**:  
-     \[
-     F1 = 2 \times \frac{Precision \times Recall}{Precision + Recall}
-     \]  
+\textbf{F1-score:}
+\begin{equation}
+    F1 = 2 \times \frac{Precision \times Recall}{Precision + Recall}
+\end{equation}
 
-These equations define the working principles of your crime prediction model. Let me know if you need any modifications! 😊
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
