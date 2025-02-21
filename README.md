@@ -25,50 +25,6 @@ Guard - Artificial Criminal Mind Detection Using Machine Learning is an AI-power
 ## System Architecture
 ![image](https://github.com/user-attachments/assets/eb70716a-bc9b-49ca-bc0f-c6ab735b9046)
 
-## Equations used:
-\section{Equations Used}
-
-\subsection{Decision Tree Classifier}
-The Decision Tree algorithm follows:
-\begin{equation}
-    Gini(D) = 1 - \sum p_i^2
-\end{equation}
-where \( Gini(D) \) measures impurity and \( p_i \) is the probability of class \( i \). The tree splits data by selecting features that minimize impurity.
-
-\subsection{Random Forest Classifier}
-Random Forest combines multiple Decision Trees:
-\begin{equation}
-    RF(X) = \frac{1}{N} \sum_{i=1}^{N} T_i(X)
-\end{equation}
-where \( T_i(X) \) is the prediction from each tree, and \( N \) is the total number of trees.
-
-\subsection{K-Nearest Neighbors (KNN)}
-KNN classifies based on distance:
-\begin{equation}
-    d = \sqrt{\sum (x_i - y_i)^2}
-\end{equation}
-where \( x_i \) and \( y_i \) are feature values of two points.
-
-\subsection{Model Evaluation Metrics}
-\textbf{Accuracy:}
-\begin{equation}
-    Accuracy = \frac{TP + TN}{TP + TN + FP + FN}
-\end{equation}
-
-\textbf{Precision:}
-\begin{equation}
-    Precision = \frac{TP}{TP + FP}
-\end{equation}
-
-\textbf{Recall:}
-\begin{equation}
-    Recall = \frac{TP}{TP + FN}
-\end{equation}
-
-\textbf{F1-score:}
-\begin{equation}
-    F1 = 2 \times \frac{Precision \times Recall}{Precision + Recall}
-\end{equation}
 
 ## Output
 
