@@ -28,13 +28,13 @@ Guard - Artificial Criminal Mind Detection Using Machine Learning is an AI-power
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Feature Importance
+![op2](https://github.com/user-attachments/assets/36fd956e-17fc-4e2c-ba7f-dea70f8d42c8)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 - Random forest classifier
+![op1](https://github.com/user-attachments/assets/6a8c5e8f-bc64-4ceb-b371-d391b06b1a47)
+
 
 
 
